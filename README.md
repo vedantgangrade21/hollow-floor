@@ -107,3 +107,13 @@ Start it with `toggle board\run_board.bat`.
 [Ursina](https://www.ursinaengine.org/) on [Panda3D](https://www.panda3d.org/),
 with custom GLSL shaders, and numpy and Pillow for the generated textures and
 sound.
+
+## License
+
+Copyright © 2026 vedantgangrade21
+
+Hollow Floor is free software, released under the
+[GNU General Public License v3.0](LICENSE). You can use, study, change and
+share it. If you share a modified version, you have to release your changes
+under the same license, with the source code included. See [`LICENSE`](LICENSE)
+for the full terms.
