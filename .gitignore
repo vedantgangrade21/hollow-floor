@@ -1,0 +1,16 @@
+# Python's compiled cache -- rebuilt automatically
+__pycache__/
+*.pyc
+
+# local backups made while developing; git history replaces them
+backups/
+*.bak*
+
+# each player's own settings (and best time) -- created on first run
+settings.json
+
+# editor / OS clutter
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
